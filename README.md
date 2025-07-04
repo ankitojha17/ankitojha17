@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitojha17
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m working as Python developer in AGBE india
 - 💞️ I’m interested in Data scientist as well as AI/ML 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
